@@ -73,7 +73,7 @@ Portable ground gateways relay drone data to remote command centers via **satell
 - Remote area connectivity
 
 ---
-
+![Architecture Diagram](Architecture.png)
 ## 🔮 Future Improvements
 
 - Autonomous drone swarm coordination
